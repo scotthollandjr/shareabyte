@@ -1,0 +1,24 @@
+{
+  "name": "PortfolioReact",
+  "version": "0.0.0",
+  "description": "practice portfolio page using reactjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Holland",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.0",
+    "react-dom": "~15.3.1",
+    "react": "~15.3.1",
+    "express-react-views": "~0.10.2",
+    "babel-preset-es2015": "~6.13.2",
+    "babel-preset-react": "~6.11.1",
+    "bulma": "~0.1.2"
+  },
+  "devDependencies": {
+    "react-bulma": "0.0.1",
+    "re-bulma": "~0.2.1"
+  }
+}
